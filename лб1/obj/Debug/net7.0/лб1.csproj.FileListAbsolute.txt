@@ -1,0 +1,14 @@
+/Users/sodikzon/Desktop/лб1/лб1/bin/Debug/net7.0/лб1
+/Users/sodikzon/Desktop/лб1/лб1/bin/Debug/net7.0/лб1.deps.json
+/Users/sodikzon/Desktop/лб1/лб1/bin/Debug/net7.0/лб1.runtimeconfig.json
+/Users/sodikzon/Desktop/лб1/лб1/bin/Debug/net7.0/лб1.dll
+/Users/sodikzon/Desktop/лб1/лб1/bin/Debug/net7.0/лб1.pdb
+/Users/sodikzon/Desktop/лб1/лб1/obj/Debug/net7.0/лб1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sodikzon/Desktop/лб1/лб1/obj/Debug/net7.0/лб1.AssemblyInfoInputs.cache
+/Users/sodikzon/Desktop/лб1/лб1/obj/Debug/net7.0/лб1.AssemblyInfo.cs
+/Users/sodikzon/Desktop/лб1/лб1/obj/Debug/net7.0/лб1.csproj.CoreCompileInputs.cache
+/Users/sodikzon/Desktop/лб1/лб1/obj/Debug/net7.0/лб1.dll
+/Users/sodikzon/Desktop/лб1/лб1/obj/Debug/net7.0/refint/лб1.dll
+/Users/sodikzon/Desktop/лб1/лб1/obj/Debug/net7.0/лб1.pdb
+/Users/sodikzon/Desktop/лб1/лб1/obj/Debug/net7.0/лб1.genruntimeconfig.cache
+/Users/sodikzon/Desktop/лб1/лб1/obj/Debug/net7.0/ref/лб1.dll
